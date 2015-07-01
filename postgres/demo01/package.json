@@ -1,0 +1,15 @@
+{
+  "name": "appexpress",
+  "version": "1.0.0",
+  "description": "app Express with nodejs, docker and postgres",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "linuxbender",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0",
+    "pg": "^4.4.0"
+  }
+}
